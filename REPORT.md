@@ -25,7 +25,7 @@ Utilicé la IA principalmente para la generación del certificado y la redacció
 También la usé para preguntar cómo ejecutar ciertos comandos y para resolver errores puntuales.
 ### Original Work
 La implementación final del endpoint /time, el archivo error.html, las pruebas automáticas y la integración de SSL fueron realizadas de manera manual.
-Para este archivo utilicé la IA para la generación de las 4 líneas de css.
+Para error.html archivo utilicé la IA para la generación de las 4 líneas de css.
 La comprensión del funcionamiento de Spring Boot, Kotlin y SSL se adquirió a través de la práctica, revisando documentación oficial y ejecutando pruebas locales.
 
 El informe REPORT.md fue editado y completado con reflexiones personales y detalles reales del trabajo.
